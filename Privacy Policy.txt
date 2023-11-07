@@ -1,0 +1,54 @@
+Privacy Policy for MotivateMe - Daily Quotes
+
+Effective Date: 7-11-2023
+
+1. Information We Collect
+
+We may collect the following types of information:
+
+Quotes and Inspirational Content: We may collect and display motivational quotes and other inspirational content from the ZenQuotes API. This content is displayed to users for their inspiration and motivation.
+
+Device Information: We may collect information about your device, including device type, operating system, and unique device identifiers. This information helps us optimize your experience with the app.
+
+
+2. How We Use Your Information
+
+We use the collected information for the following purposes:
+
+Displaying Inspirational Content: We use ZenQuotes API to provide motivational quotes and inspirational content to users.
+
+Optimizing User Experience: Device and usage data help us tailor the app's performance and content to suit your preferences.
+
+Ads: We may display ads to support the app's development. These ads may be personalized based on your device information and usage patterns.
+
+3. Data Sharing
+
+We may share your data in the following circumstances:
+
+With Third-Party Services: We use the ZenQuotes API to fetch inspirational content. Data sharing with ZenQuotes is subject to their privacy policy.
+
+Third-Party Advertising: Advertisements in the app may be provided by third-party ad networks. These networks may collect data for personalized advertising. We do not control the data collection practices of these networks.
+
+4. Security
+
+We take measures to protect your information. However, please be aware that no method of transmission over the internet or electronic storage is 100% secure. We cannot guarantee the absolute security of your data.
+
+5. User Rights
+
+You have the following rights regarding your data:
+
+Access: You can access your personal data stored by the app.
+
+Rectify: You can correct or update your data.
+
+Erase: You can request the deletion of your data.
+
+Withdraw Consent: You can opt out of data collection at any time.
+
+6. Contact Us
+
+If you have questions or concerns about our Privacy Policy or data practices, please contact us at techspy159@gmail.com.
+
+7. Changes to This Privacy Policy
+
+We may update our Privacy Policy as the app evolves. We will notify you of changes by posting the new Privacy Policy within the app.
