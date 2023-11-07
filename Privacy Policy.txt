@@ -8,7 +8,7 @@ We may collect the following types of information:
 
 Quotes and Inspirational Content: We may collect and display motivational quotes and other inspirational content from the ZenQuotes API. This content is displayed to users for their inspiration and motivation.
 
-Device Information: We may collect information about your device, including device type, operating system, and unique device identifiers. This information helps us optimize your experience with the app.
+Device Information: We do not collect any of your personal and device information.
 
 
 2. How We Use Your Information
